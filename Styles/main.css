@@ -1,0 +1,7 @@
+.main{
+    min-height: 200px;
+    font-size: 100%;
+}
+.col {
+    border: 1px solid white;
+}
